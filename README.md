@@ -25,12 +25,8 @@
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualStudio" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="visualStudioCode" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-512.png" alt="slack" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" style="max-width: 100%;"> </a>
-<a href="https://www.canva.com/tr_tr/" target="_blank" rel="noreferrer"> <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="30" height="30" style="max-width: 100%;"> </a>
-<a href="https://www.capcut.com/tr-tr/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/MO4jVMbqskWrBD7BDUiKkymLPDMlSFjnEE-JTCigWv6UcoENgAkSKr8bs0IvPs8Twv8" alt="chatGPT" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="notion" width="30" height="30" style="max-width: 100%;"> </a>
-<a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://clarity.microsoft.com/blog/wp-content/uploads/2022/02/256X256.png" alt="microsoftClarity" width="30" height="30" style="max-width: 100%;"> </a>
-<a href="https://business.facebook.com/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/meta-company-logo_265339-667.jpg" alt="metaBusiness" width="30" height="30" style="max-width: 100%;"> </a>
 
 
 
